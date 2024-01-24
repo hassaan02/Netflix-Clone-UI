@@ -87,3 +87,30 @@ nav button {
     background-color: gray;
     opacity: 0.4;
 }
+
+.btn {
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-weight: 700;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.btn-gs {
+    padding: 10px 24px;
+    border-radius: 6px;
+    font-weight: 700;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.main input {
+    padding: 8px 15px;
+    border-radius: 6px;
+    font-weight: 700;
+    background-color: rgba(23, 23, 23, 0.2);
+    color: aliceblue;
+    border: 2px solid rgba(239, 239, 239, 0.4);
+}
